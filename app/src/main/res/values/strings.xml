@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DummyBudget</string>
+    <string name="login_header">Login</string>
+    <string name="sign_up">Don\'t have an account yet?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
 </resources>
