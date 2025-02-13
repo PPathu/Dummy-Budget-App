@@ -31,3 +31,9 @@ The Dummy Budget App is a comprehensive Android application that helps users man
 ### 5. **Settings**
 - **Customizable Options**:  
   - Users can update their account information, adjust notifications, and access privacy settings.
+
+---
+
+# Demo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1P2u1snjKyo/0.jpg)](https://www.youtube.com/watch?v=1P2u1snjKyo)
