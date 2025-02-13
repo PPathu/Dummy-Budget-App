@@ -2,6 +2,8 @@
 
 The Dummy Budget App is a comprehensive Android application that helps users manage their finances effectively. It allows users to set budgets, track expenses, compare costs across cities, and visualize financial data through interactive dashboards.
 
+![IMG_9013](https://github.com/user-attachments/assets/5594862f-b0a8-43ef-8673-942d25d38e68)
+
 ---
 
 ## Features
